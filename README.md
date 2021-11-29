@@ -2,7 +2,8 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on CV
-- 📫 How to reach me ...
+- ⚙  I'm currently workin on IntelliX Project
+- 📫 How to reach me ..
 
 <!---
 Altair-Farooque21/Altair-Farooque21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
