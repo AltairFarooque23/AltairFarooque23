@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on CV
 - ⚙  I'm currently workin on IntelliX Project
-- 📫 How to reach me ..
+- 📫 How to reach me farooqueAltair@gmail.com
 
 <!---
 Altair-Farooque21/Altair-Farooque21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
