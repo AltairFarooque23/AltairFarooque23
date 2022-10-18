@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on CV
-- ⚙  I'm currently workin on Computer Vision & NLP
+- ⚙  I'm currently workin on Computer Vision
 - 📫 How to reach me farooqueAltair@gmail.com
 
 <!---
