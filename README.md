@@ -7,9 +7,9 @@
 ## Tech Stack
 💻 My toolkit includes a diverse range of technologies:
 
-Front-end: HTML, CSS, JavaScript, React
-Back-end: Node.js, Express
-Databases: MongoDB, MySQL
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Node.js, Express
+- Databases: MongoDB, MySQL
 
 ## What I Do
 ✨ At the core of my work is the ability to transform ideas into functional and visually appealing websites. I find joy in the art of web design, focusing on creating intuitive user interfaces that provide seamless navigation and a delightful user experience. By harnessing the power of design tools like Figma, I craft stunning layouts that strike the perfect balance between aesthetics and functionality.
