@@ -2,7 +2,7 @@
 
 # About Me
 
-I'm Altair Farooque , got my bachelor degree in the field of Electronics and Communication Engineering .I was always passinate about technology , in my third year , i used to learn basic front end technologies ( HTML , CSS , Javascript ) ,there i started my journey towards web development . I love cats 😼 and love to travel around ✈️ . Now currently working as Freelancer .
+I'm Altair Farooque , got my bachelor degree in the field of Electronics and Communication Engineering .I was always passionate about technology , in my third year , i used to learn basic front end technologies ( HTML , CSS , Javascript ) ,there i started my journey towards web development . I love cats 😼 and love to travel around ✈️ . Now currently working as Freelancer .
 
 
 ## Tech Stack
@@ -19,9 +19,12 @@ I'm Altair Farooque , got my bachelor degree in the field of Electronics and Com
 
 ## What I Do
 
-✨ At the core of my work is the ability to transform ideas into functional and visually appealing websites. I find joy in the art of web design, focusing on creating intuitive user interfaces that provide seamless navigation and a delightful user experience. By harnessing the power of design tools like Figma, I craft stunning layouts that strike the perfect balance between aesthetics and functionality.So I design and develop web applications .
+✨ I turn designs into fully functional web applications .I write resuable components which makes development faster ,to make development more faster, I use Tailwindcss 🌀 which is utility first classes based development which saves lot of time in development . I write from simple to complex business logics with highly composable and error free backend code to handle forms , data fetching and processing , other logics to meet the applications requirements. So I have practical experience in both frontend and backend .I also refactor your existing designs with best practices & design principles on demand or you have an idea , we can start-off from scratch and build inituitive web designs ,all my designs are always falls under the contrains of design systems & principles .
+
+
 
 ## Explore My Work
+
 🔗 If you're curious to see my projects in action, feel free to visit [My GitHub Repositories](https://github.com/Altair-Farooque21?tab=repositories). You'll find a collection of coding samples and projects that showcase my skills and creativity.
 
 ## Let's Connect
