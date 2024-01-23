@@ -1,8 +1,4 @@
-👋 Hi there! I'm Altair Farooque, a friendly and skilled full stack web developer. It's a pleasure to meet you! Allow me to introduce myself and share what makes me passionate about web development:
-
-# About Me
-
-I'm Altair Farooque , got my bachelor degree in the field of Electronics and Communication Engineering .I was always passionate about technology , in my third year , i used to learn basic front end technologies ( HTML , CSS , Javascript ) ,there i started my journey towards web development . I love cats 😼 and love to travel around ✈️ . Now currently working as Freelancer .
+👋 Hi there! I'm Altair Farooque, a friendly and skilled full stack web developer. It's a pleasure to meet you! 
 
 ## Tech Stack
 
